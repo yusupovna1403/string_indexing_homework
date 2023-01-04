@@ -105,8 +105,7 @@ Output: "cod"
 
 ## Index05
 
-  Given a variable s string of length five. Determine the number of digits involved in this variable.
-
+Count the number of digits in the string s, which has a length of five.
 **Example 1:**
 
 ```Python
