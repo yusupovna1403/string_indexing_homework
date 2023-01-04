@@ -177,7 +177,7 @@ Output: "d"
 
 ## Index08
 
-  A string of length five is given. Return the index of the "*" character, return False if not present.
+Find the index of the '*' character. If the character is not present, return False. The length of the string is five.
 
 **Example 1:**
 
