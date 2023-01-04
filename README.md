@@ -152,7 +152,8 @@ Output: "gd"
 
 ## Index07
 
-  The s string variable is given. n Return the character in the index, otherwise return False.
+Given a string **s** and an integer **n**, return the character at the index **n**. 
+If **n** is out of range, return False.
 
 **Example 1:**
 
