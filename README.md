@@ -128,7 +128,7 @@ Output: 5
 
 ## Index06
 
-  A string variable consisting of several characters is given. Add and return the first and last character.
+Given a string variable consisting of several characters, return the concatenation of the first and last character.
 
 **Example 1:**
 
