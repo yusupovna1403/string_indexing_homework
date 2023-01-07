@@ -6,4 +6,9 @@ def main(s):
     Returns:
         int: answer
     """
-    return
+    if s > '0' and s < '9':
+        return int(s)
+    else:
+        return -1
+print(main("4"))
+print(main("k"))
