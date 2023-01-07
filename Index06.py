@@ -8,5 +8,5 @@ def main(s):
     """
 
     return s[0] + s[-1]
-print(main("u"))
+print(main("uz"))
 print(main("good"))

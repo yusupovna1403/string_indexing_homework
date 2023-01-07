@@ -6,5 +6,23 @@ def main(s):
     Returns:
         int: answer
     """
-    return
+    
+    idx = 0
+    if s[idx] == "*":
+        return idx
+    idx+=1
+    if s[idx] == "*":
+        return idx
+    idx+=1
+    if s[idx] == "*":
+        return idx
+    idx+=1
+    if s[idx] == "*":
+        return idx
+    else:
+        return False
+    
+print(main("c*e"))
+print(main("good"))
+
         
